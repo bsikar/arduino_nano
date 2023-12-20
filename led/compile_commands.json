@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-c",
+      "-std=c17",
+      "-Os",
+      "-DF_CPU=16000000",
+      "-mmcu=atmega328p",
+      "-o",
+      "main.elf",
+      "src/main.c"
+    ],
+    "directory": "/home/brightons/Documents/GitHub/nano_ft232/led",
+    "file": "/home/brightons/Documents/GitHub/nano_ft232/led/src/main.c",
+    "output": "/home/brightons/Documents/GitHub/nano_ft232/led/main.elf"
+  }
+]

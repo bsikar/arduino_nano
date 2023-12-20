@@ -1,3 +1,17 @@
+# code composer studio
+.jxbrowser.userdata
+RemoteSystemsTempFiles
+**/.launches
+**/.settings
+**/targetConfigs
+**/Debug
+**/.cache
+
+# maybe i will delete the following, i might change this part later to keep the files
+# **/.ccsproject
+# **/.cproject
+# **/.project
+
 # Prerequisites
 *.d
 
@@ -50,3 +64,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.metadata/
